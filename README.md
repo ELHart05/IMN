@@ -1,6 +1,6 @@
 # IMN - Digital Image Processing Labs
 
-Lab exercises for the Digital Image Processing course (Traitement des Images Numeriques), second-year Computer Science (2CS).
+Lab exercises for the Digital Image Processing course (Traitement des Images Numeriques), fourth-year Computer Science (2CS).
 
 ## Labs
 
