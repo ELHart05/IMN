@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated outputs (run the notebooks to reproduce these)
+*.avi
+image_converted.*
+
+# OS
+.DS_Store
+Thumbs.db
